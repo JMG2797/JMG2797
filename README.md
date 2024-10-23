@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jesus Mangas, I´m 25.
+- 👋 Hi, I’m Jesus Mangas, I´m 27.
 - I’m interested in Game Development and App Development.
-- I’m currently learning Java. I have already expirience with C# and C++.
-- I’m looking to collaborate on any project dedicated to mobile, web app or videogames development.
-- How to reach me: My phone number is +34 681336947 and my mail is jesusmangar27@gmail.com
+- I have expirience with C#, C++ and Java.
+- Phone number: +34 681 33 69 47
+- E-mail: jesusmangar27@gmail.com
 
 <!---
 JMG2797/JMG2797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
