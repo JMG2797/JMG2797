@@ -9,9 +9,9 @@ SOBRE MI
 
  - Ubicación: Madrid /España
 
- - Actualmente trabajo en: 
+ - Actualmente trabajo en: Freelance
 
- Aprendiendo: Machine Learning, 
+ Aprendiendo: Machine Learning, Seguridad Informática
 
 CONTACTO
  - E-Mail: jesusmangar27@gmail.com
