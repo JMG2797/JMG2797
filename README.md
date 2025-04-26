@@ -2,7 +2,7 @@ JESÚS MANGAS GARCÍA
 
 ¡Hola! Soy un desarrollador de aplicaciones multiplataforma y aplicaciones móviles apasionado por crear soluciones innovadoras y eficientes.
 
- - Me especializo en C#, C+ y Java, y 
+ - Me especializo en C#, C+ y Java. 
  - Disfruto trabajar en proyectos que combinan creatividad y tecnología. 
  
 SOBRE MI
