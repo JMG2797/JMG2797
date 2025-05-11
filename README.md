@@ -28,7 +28,8 @@ JMG2797/JMG2797 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Jesús Mangas García 
+JESÚS MANGAS GARCÍA 
+
 Hello! I’m a multi-platform and mobile app developer passionate about creating innovative and efficient solutions. I specialize in C#, C++, and Java, and I enjoy working on projects that blend creativity and technology.
 
  About Me
